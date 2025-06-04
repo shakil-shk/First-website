@@ -1,12 +1,11 @@
-💻 Personal Web Page <br>
-Welcome to my personal web page repository!<br> 🌟 This project is a showcase of my skills and projects, built using HTML, CSS, Bootstrap, and a touch of JavaScript.<br>
+A clean, responsive portfolio website showcasing:
+✔ Professional profile with skills & education
+✔ Interactive design with smooth animations
+✔ Visual skill progress bars (Java, HTML/CSS, JavaScript)
+✔ Contact info & social media links
 
-Feel free to explore the code, suggest improvements, or use this as inspiration for your own projects! 🚀<br>
+Tech: HTML5, CSS3, Google Fonts
 
-✨ Features<br>
-A clean and responsive design that works on all screen sizes.<br>
-Sections include:<br>
-* About Me<br>
-* Education<br>
-Contact Information<br>
-Interactive elements for better user experience.<br>
+Customizable: Easily edit personal info, colors, and skills
+
+Simply open index.html to view. Free to use with attribution.
